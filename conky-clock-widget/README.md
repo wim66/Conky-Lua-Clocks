@@ -1,0 +1,3 @@
+- **Fonts**:
+    - [Candlescript](https://www.dafont.com/candlescript.font)
+    - [Feena-Casual](http://www.1001fonts.com/feena-casual-font.html)
