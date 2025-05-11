@@ -2,7 +2,7 @@
 -- Set the path to the scripts foder
 package.path = "./scripts/?.lua"
 
-Clock_Face_Color = "pink" --options are pink/green/black
+Clock_Face_Color = "green" --options are pink/green/black
 
 
 -- ##########################################################################
